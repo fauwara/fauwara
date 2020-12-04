@@ -1,6 +1,6 @@
 ![Arima kousei](./src/kousei-arima.jpg)
 
-> Haii, I'm Fawaz. Just another kid who sits at his laptop truying to build kewl stuff for fun. ¯\\\_(ツ)_/¯
+> Haii, I'm Fawaz. Just another kid who sits at his laptop trying to build kewl stuff for fun. ¯\\\_(ツ)_/¯
 
 I build stuff mostly with python and sometimes for the web. Most of my projects are really dumb and useless but I hope one day that the stuff that I have built will be of use/help to someone around the world and that they would genuinely enjoy using it.
 
