@@ -9,3 +9,4 @@ I build stuff mostly with python and sometimes for the web. Most of my projects 
 - I don't wanna restrict myself to a specific domain. So I learn whatever I like. Instead of being good at one domain, now I'm bad at multiple domains. ( gg I played myself )
 - I love to code, watch anime, and play games.
 - I'm good at googling.
+- Love to learn more.
