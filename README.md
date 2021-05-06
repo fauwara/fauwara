@@ -1,4 +1,5 @@
-![I HAB NO LIFE PIC](./src/coding.jpg)
+<!-- ![I HAB NO LIFE PIC](./src/coding.jpg) -->
+<img src="./src/coding.jpg" alt="drawing" width="100%"/>
 
 > Haii, I'm Fawaz. Just another ordinary kid who sits at his laptop trying to build kewl stuff for fun. ¯\\\_(ツ)_/¯
 
