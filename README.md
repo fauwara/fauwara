@@ -3,7 +3,7 @@
 
 > Haii, I'm Fawaz. Just another ordinary kid who sits at his laptop trying to build kewl stuff for fun. ¯\\\_(ツ)_/¯
 
-I build stuff mostly with python and sometimes for the web. Most of my projects are really dumb and useless but I hope one day that the stuff that I have built will be of use/help to someone around the world and that they would genuinely enjoy using it.
+I build stuff mostly with python and sometimes for the web. Most of my projects are really dumb and useless but I hope one day that the stuff that I have built will be of use/help to someone and that they would enjoy using it.
 
 - Currently pursuing my bachelor's in Computer Science and Engineering.
 - I kinda self-taught myself to code soo I suck at it, lol.
