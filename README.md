@@ -1,3 +1,9 @@
-<!-- ![I HAB NO LIFE PIC](./src/coding.jpg) -->
-<img src="./src/coding.jpg" alt="drawing" width="100%"/>
+Hello, I'm Fawaz Abid ✨
+- I love anything related to computers.
+- Python and Web developer
 
+Goals:
+- 📗 Read/Watch basic computer science fundementals.
+- 🐍 Build more python projects.
+- 🌿 Contribute more to open source.
+- 🙌 Enjoy
